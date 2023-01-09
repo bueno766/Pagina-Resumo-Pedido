@@ -10,5 +10,5 @@ Projeto Freelancer para agencia. Com animação no botão de compra e redirecion
 
 No Mobile utilizando modal de resumo de pedido com botão de compra.
 
-![image](https://user-images.githubusercontent.com/47156304/211429629-ac031004-80ec-4a1a-96a1-9a8c75e28934.png)
+![image](https://user-images.githubusercontent.com/47156304/211429882-76e5cd4f-9355-419d-b17d-2f5bbf22cd9f.png)![image](https://user-images.githubusercontent.com/47156304/211429629-ac031004-80ec-4a1a-96a1-9a8c75e28934.png)
 
